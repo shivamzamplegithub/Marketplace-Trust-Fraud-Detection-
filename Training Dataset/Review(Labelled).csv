@@ -1,0 +1,11 @@
+review_id,text,rating,verified,product_id,ip_id,label
+r101,"Amazing quality, very satisfied!",5,1,p203,ip89,0
+r102,"Arrived damaged, terrible experience",1,0,p207,ip12,1
+r103,"Good value for money",4,1,p215,ip33,0
+r104,"Best purchase this year! Highly recommend",5,0,p203,ip77,1
+r105,"Not as described, poor quality",2,1,p219,ip12,1
+r106,"Works perfectly, fast shipping",5,1,p220,ip45,0
+r107,"Overpriced and defective",1,0,p207,ip64,1
+r108,"Average product, nothing special",3,1,p201,ip33,0
+r109,"Absolutely love it! 5 stars",5,0,p215,ip77,1
+r110,"Failed after 2 days, waste of money",1,1,p219,ip64,1

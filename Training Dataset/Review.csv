@@ -1,0 +1,201 @@
+review_id,text,rating,verified,product_id,ip_id,label
+r1001,"Good product, works as expected",4,1,p201,ip101,0
+r1002,"Poor quality, wouldn't recommend",2,0,p202,ip102,0
+r1003,"AMAZING!!! BEST PURCHASE EVER!!!",5,0,p203,ip103,1
+r1004,"Decent value for money",3,1,p204,ip104,0
+r1005,"PERFECT! EXACTLY WHAT I NEEDED!",5,0,p203,ip103,1
+r1006,"Fast shipping, good packaging",4,1,p205,ip105,0
+r1007,"⭐⭐⭐⭐⭐ EXCELLENT PRODUCT!",5,0,p203,ip103,1
+r1008,"Average performance",3,0,p206,ip106,0
+r1009,"LOVE IT! BUY AGAIN FOR SURE!",5,0,p203,ip103,1
+r1010,"Stopped working after 2 weeks",1,1,p207,ip107,0
+r1011,"TOP QUALITY!!! HIGHLY RECOMMEND!",5,0,p203,ip103,1
+r1012,"Accurate product description",4,1,p208,ip108,0
+r1013,"WOW! EXCEEDED EXPECTATIONS!",5,0,p203,ip103,1
+r1014,"Defective unit received",1,0,p209,ip109,0
+r1015,"PERFECT GIFT IDEA!!!",5,0,p203,ip103,1
+r1016,"Good customer service experience",5,1,p210,ip110,0
+r1017,"BEST PRODUCT IN THIS CATEGORY!",5,0,p203,ip103,1
+r1018,"Overpriced for what you get",2,1,p211,ip111,0
+r1019,"A+++ SELLER!!! FIVE STARS!",5,0,p203,ip103,1
+r1020,"Met my requirements",4,0,p212,ip112,0
+r1021,"Not durable, broke quickly",1,0,p213,ip113,0
+r1022,"EXCEPTIONAL VALUE!!!",5,0,p203,ip103,1
+r1023,"Works well for daily use",4,1,p214,ip114,0
+r1024,"⭐⭐⭐⭐⭐ PERFECT SCORE!",5,0,p203,ip103,1
+r1025,"Mediocre at best",3,0,p215,ip115,0
+r1026,"HIGHLY SATISFIED CUSTOMER!",5,0,p203,ip103,1
+r1027,"Difficult to assemble",2,1,p216,ip116,0
+r1028,"BETTER THAN EXPECTED!!!",5,0,p203,ip103,1
+r1029,"Average product",3,0,p217,ip117,0
+r1030,"EXCELLENT BUY RECOMMENDED!",5,0,p203,ip103,1
+r1031,"Poor battery life",1,1,p218,ip118,0
+r1032,"PERFECT SOLUTION FOR ME!",5,0,p203,ip103,1
+r1033,"Good for beginners",4,0,p219,ip119,0
+r1034,"WILL TELL ALL MY FRIENDS!!!",5,0,p203,ip103,1
+r1035,"Not worth the price",2,1,p220,ip120,0
+r1036,"EXCEEDINGLY PLEASED!!!",5,0,p203,ip103,1
+r1037,"Functional but not great",3,0,p221,ip121,0
+r1038,"BEST DECISION EVER MADE!",5,0,p203,ip103,1
+r1039,"Packaging was damaged",2,1,p222,ip122,0
+r1040,"HIGHLY RECOMMEND THIS ITEM!",5,0,p203,ip103,1
+r1041,"Serves its purpose",3,0,p223,ip123,0
+r1042,"PERFECT FIT!!!",5,0,p203,ip103,1
+r1043,"Subpar materials",2,1,p224,ip124,0
+r1044,"EXCELLENT ALL AROUND!!!",5,0,p203,ip103,1
+r1045,"Fair quality",3,0,p225,ip125,0
+r1046,"BEST THING I OWN!!!",5,0,p203,ip103,1
+r1047,"Disappointing performance",1,1,p226,ip126,0
+r1048,"LOVE EVERYTHING ABOUT IT!!!",5,0,p203,ip103,1
+r1049,"Good for light use",4,0,p227,ip127,0
+r1050,"EXCELLENT DESIGN!!!",5,0,p203,ip103,1
+r1051,"Broke after minimal use",1,1,p228,ip128,0
+r1052,"PERFECT FOR MY NEEDS!!!",5,0,p203,ip103,1
+r1053,"Meets basic requirements",3,0,p229,ip129,0
+r1054,"WOW AMAZING!!!",5,0,p203,ip103,1
+r1055,"Not high quality",2,1,p230,ip130,0
+r1056,"EXCELLENT CUSTOMER SERVICE!!!",5,0,p203,ip103,1
+r1057,"Adequate performance",3,0,p231,ip131,0
+r1058,"BEST PURCHASE THIS YEAR!",5,0,p203,ip103,1
+r1059,"Inconsistent results",2,1,p232,ip132,0
+r1060,"HIGHLY IMPRESSED!!!",5,0,p203,ip103,1
+r1061,"Good starter product",4,0,p233,ip133,0
+r1062,"PERFECTLY DESIGNED!!!",5,0,p203,ip103,1
+r1063,"Unreliable",1,1,p234,ip134,0
+r1064,"EXCEEDS ALL STANDARDS!!!",5,0,p203,ip103,1
+r1065,"Satisfactory",3,0,p235,ip135,0
+r1066,"BEST VALUE FOR MONEY!!!",5,0,p203,ip103,1
+r1067,"Poor workmanship",2,1,p236,ip136,0
+r1068,"LOVE THIS PRODUCT!!!",5,0,p203,ip103,1
+r1069,"Functional design",3,0,p237,ip137,0
+r1070,"EXCELLENT PERFORMANCE!!!",5,0,p203,ip103,1
+r1071,"Not recommended",1,1,p238,ip138,0
+r1072,"PERFECT ADDITION!!!",5,0,p203,ip103,1
+r1073,"Good but not excellent",3,0,p239,ip139,0
+r1074,"HIGHLY RECOMMENDED BY ME!!!",5,0,p203,ip103,1
+r1075,"Defective on arrival",1,1,p240,ip140,0
+r1076,"BEST ON THE MARKET!!!",5,0,p203,ip103,1
+r1077,"Met expectations",3,0,p241,ip141,0
+r1078,"EXCELLENT CRAFTSMANSHIP!!!",5,0,p203,ip103,1
+r1079,"Inferior quality",2,1,p242,ip142,0
+r1080,"PERFECT GIFT ITEM!!!",5,0,p203,ip103,1
+r1081,"Good for price",4,0,p243,ip143,0
+r1082,"WILL BUY AGAIN!!!",5,0,p203,ip103,1
+r1083,"Flawed design",2,1,p244,ip144,0
+r1084,"EXCELLENT PRODUCT!!!",5,0,p203,ip103,1
+r1085,"Satisfied customer",4,0,p245,ip145,0
+r1086,"TOP-NOTCH QUALITY!!!",5,0,p203,ip103,1
+r1087,"Mediocre functionality",3,1,p246,ip146,0
+r1088,"LOVE IT LOVE IT LOVE IT!!!",5,0,p203,ip103,1
+r1089,"Poor durability",1,0,p247,ip147,0
+r1090,"EXCELLENT ALL AROUND PRODUCT!!!",5,0,p203,ip103,1
+r1091,"Decent value",3,0,p248,ip148,0
+r1092,"PERFECT SOLUTION TO MY PROBLEM!",5,0,p203,ip103,1
+r1093,"Not user-friendly",2,1,p249,ip149,0
+r1094,"HIGHLY PLEASED!!!",5,0,p203,ip103,1
+r1095,"Good entry-level option",4,0,p250,ip150,0
+r1096,"BEST INVESTMENT I MADE!!!",5,0,p203,ip103,1
+r1097,"Stopped working quickly",1,1,p251,ip151,0
+r1098,"EXCELLENT BUY HAPPY CUSTOMER!",5,0,p203,ip103,1
+r1099,"Meets needs adequately",3,0,p252,ip152,0
+r1100,"PERFECT FOR EVERYDAY USE!!!",5,0,p203,ip103,1
+r1101,"Subpar performance",2,1,p253,ip153,0
+r1102,"EXCEEDED MY EXPECTATIONS!!!",5,0,p203,ip103,1
+r1103,"Reliable product",4,0,p254,ip154,0
+r1104,"BEST IN CLASS!!!",5,0,p203,ip103,1
+r1105,"Poor instructions",1,1,p255,ip155,0
+r1106,"HIGHLY RECOMMEND THIS SELLER!",5,0,p203,ip103,1
+r1107,"Good quality",4,0,p256,ip156,0
+r1108,"PERFECT PURCHASE DECISION!!!",5,0,p203,ip103,1
+r1109,"Not durable",2,1,p257,ip157,0
+r1110,"EXCELLENT FAST SHIPPING!!!",5,0,p203,ip103,1
+r1111,"Average at best",3,0,p258,ip158,0
+r1112,"BEST THING SINCE SLICED BREAD!",5,0,p203,ip103,1
+r1113,"Slightly better than expected",3,1,p259,ip159,0
+r1114,"PERFECT MATCH!!!",5,0,p203,ip103,1
+r1115,"Poor quality control",1,0,p260,ip160,0
+r1116,"EXCELLENT VALUE!!!",5,0,p203,ip103,1
+r1117,"Decent for occasional use",3,0,p261,ip161,0
+r1118,"WOW!!! JUST WOW!!!",5,0,p203,ip103,1
+r1119,"Not as described",2,1,p262,ip162,0
+r1120,"HIGHLY SATISFIED WITH QUALITY!",5,0,p203,ip103,1
+r1121,"Good basic product",4,0,p263,ip163,0
+r1122,"EXCELLENT PRODUCT DESIGN!!!",5,0,p203,ip103,1
+r1123,"Broke easily",1,1,p264,ip164,0
+r1124,"PERFECT FOR MY COLLECTION!!!",5,0,p203,ip103,1
+r1125,"Fair performance",3,0,p265,ip165,0
+r1126,"BEST PRODUCT OWNED!!!",5,0,p203,ip103,1
+r1127,"Inferior materials",2,1,p266,ip166,0
+r1128,"EXCELLENT USER EXPERIENCE!!!",5,0,p203,ip103,1
+r1129,"Satisfied overall",4,0,p267,ip167,0
+r1130,"PERFECT CHOICE!!!",5,0,p203,ip103,1
+r1131,"Not worth it",1,1,p268,ip168,0
+r1132,"HIGHLY RECOMMENDED PRODUCT!",5,0,p203,ip103,1
+r1133,"Meets specifications",3,0,p269,ip169,0
+r1134,"EXCELLENT QUALITY CONTROL!!!",5,0,p203,ip103,1
+r1135,"Poor value",2,1,p270,ip170,0
+r1136,"BEST DECISION I'VE MADE!!!",5,0,p203,ip103,1
+r1137,"Functional and reliable",4,0,p271,ip171,0
+r1138,"LOVE THIS ITEM!!!",5,0,p203,ip103,1
+r1139,"Defective upon arrival",1,1,p272,ip172,0
+r1140,"EXCELLENT PERFORMANCE!!!",5,0,p203,ip103,1
+r1141,"Good for intended purpose",4,0,p273,ip173,0
+r1142,"PERFECTLY MET MY NEEDS!!!",5,0,p203,ip103,1
+r1143,"Substandard quality",2,1,p274,ip174,0
+r1144,"HIGHLY PLEASED WITH PURCHASE!",5,0,p203,ip103,1
+r1145,"Average functionality",3,0,p275,ip175,0
+r1146,"BEST PRODUCT IN ITS CATEGORY!",5,0,p203,ip103,1
+r1147,"Not reliable",1,1,p276,ip176,0
+r1148,"EXCELLENT CUSTOMER SUPPORT!!!",5,0,p203,ip103,1
+r1149,"Good but could be better",3,0,p277,ip177,0
+r1150,"PERFECT FOR GIFTING!!!",5,0,p203,ip103,1
+r1151,"Poor assembly required",2,1,p278,ip178,0
+r1152,"WILL RECOMMEND TO EVERYONE!!!",5,0,p203,ip103,1
+r1153,"Serves purpose well",4,0,p279,ip179,0
+r1154,"EXCEEDED ALL REQUIREMENTS!!!",5,0,p203,ip103,1
+r1155,"Not high-end",2,1,p280,ip180,0
+r1156,"BEST PRODUCT EVER PURCHASED!",5,0,p203,ip103,1
+r1157,"Adequate for needs",3,0,p281,ip181,0
+r1158,"EXCELLENT BUILD QUALITY!!!",5,0,p203,ip103,1
+r1159,"Inconsistent performance",2,1,p282,ip182,0
+r1160,"PERFECT SOLUTION FOR YOU!",5,0,p203,ip103,1
+r1161,"Good value proposition",4,0,p283,ip183,0
+r1162,"HIGHLY SATISFIED CUSTOMER!",5,0,p203,ip103,1
+r1163,"Broke after first use",1,1,p284,ip184,0
+r1164,"EXCELLENT PRODUCT FEATURES!!!",5,0,p203,ip103,1
+r1165,"Met basic needs",3,0,p285,ip185,0
+r1166,"BEST PURCHASE OF THE MONTH!",5,0,p203,ip103,1
+r1167,"Poor finish",2,1,p286,ip186,0
+r1168,"LOVE EVERYTHING ABOUT THIS!!!",5,0,p203,ip103,1
+r1169,"Functional design",3,0,p287,ip187,0
+r1170,"EXCELLENT VALUE FOR MONEY!!!",5,0,p203,ip103,1
+r1171,"Not as durable as expected",1,1,p288,ip188,0
+r1172,"PERFECT FOR MY HOME!!!",5,0,p203,ip103,1
+r1173,"Good but not perfect",3,0,p289,ip189,0
+r1174,"HIGHLY RECOMMENDED TO FRIENDS!",5,0,p203,ip103,1
+r1175,"Defective part",1,1,p290,ip190,0
+r1176,"BEST DECISION YOU'LL MAKE!",5,0,p203,ip103,1
+r1177,"Satisfactory performance",3,0,p291,ip191,0
+r1178,"EXCELLENT PRODUCT DURABILITY!",5,0,p203,ip103,1
+r1179,"Inferior workmanship",2,1,p292,ip192,0
+r1180,"PERFECT FOR PROFESSIONAL USE!",5,0,p203,ip103,1
+r1181,"Good for beginners",4,0,p293,ip193,0
+r1182,"WOW AMAZING PRODUCT!!!",5,0,p203,ip103,1
+r1183,"Not premium quality",2,1,p294,ip194,0
+r1184,"EXCELLENT ALL AROUND VALUE!!!",5,0,p203,ip103,1
+r1185,"Meets minimum requirements",3,0,p295,ip195,0
+r1186,"BEST ITEM IN MY COLLECTION!",5,0,p203,ip103,1
+r1187,"Poor customer service",1,1,p296,ip196,0
+r1188,"PERFECT FIT FOR MY NEEDS!",5,0,p203,ip103,1
+r1189,"Decent performance",3,0,p297,ip197,0
+r1190,"EXCELLENT PRODUCT RELIABILITY!",5,0,p203,ip103,1
+r1191,"Broke during normal use",1,1,p298,ip198,0
+r1192,"HIGHLY RECOMMEND THIS BRAND!",5,0,p203,ip103,1
+r1193,"Good enough",3,0,p299,ip199,0
+r1194,"PERFECT CHOICE FOR BEGINNERS!",5,0,p203,ip103,1
+r1195,"Not recommended",2,1,p300,ip200,0
+r1196,"EXCELLENT PRODUCT PERFORMANCE!",5,0,p203,ip103,1
+r1197,"Functional",3,0,p201,ip101,0
+r1198,"PERFECT ADDITION TO MY SETUP!",5,0,p203,ip103,1
+r1199,"Slightly damaged",2,1,p202,ip102,0
+r1200,"HIGHLY PLEASED WITH QUALITY!",5,0,p203,ip103,1
